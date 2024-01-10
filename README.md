@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .How are you..this is new feature
 - my edit with my blachess
-- serprise my friend
+- surprise my dear abdo
+- 
 
 <!---
 abdooabdooo/abdooabdooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
