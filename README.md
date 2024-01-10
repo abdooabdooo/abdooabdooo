@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .How are you..this is new feature
+- this is second new feature
 
 <!---
 abdooabdooo/abdooabdooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
